@@ -1,6 +1,6 @@
 const fs = require('fs');
 const inlineCss = require('inline-css');
-var html = "";
+let html = "";
 
 function readFiles() {
   return new Promise(function (resolve, reject) {
