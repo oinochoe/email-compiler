@@ -1,0 +1,22 @@
+{
+  "name": "email-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oinochoe/email-compiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oinochoe/email-compiler/issues"
+  },
+  "homepage": "https://github.com/oinochoe/email-compiler#readme",
+  "dependencies": {
+    "inline-css": "^2.6.2"
+  }
+}
